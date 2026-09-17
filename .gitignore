@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.next-review/
+.next-debug/
+.qa/
+.vercel/
+*.log
+.DS_Store
+.vercel
+.env
+.env.*
+!.env.example
+*.tsbuildinfo

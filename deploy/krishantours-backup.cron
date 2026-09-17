@@ -1,0 +1,1 @@
+17 2 * * * ubuntu cd /home/ubuntu/tours && /usr/bin/node scripts/backup-inquiries.mjs >> /home/ubuntu/tours-data/inquiries/backup.log 2>&1
